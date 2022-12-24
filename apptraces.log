@@ -1,0 +1,1686 @@
+2022-11-19 14:00:29,822:services:Creating the session with the db 
+2022-11-19 14:00:29,831:services:Validating the name and phone_number before inserting it into the database.
+2022-11-19 14:00:29,832:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-19 14:00:29,832:services:Database object formed
+2022-11-19 14:00:29,832:services:Adding to the database
+2022-11-19 14:00:29,835:services:Record successfully added namedfgand phone_number is46472.4342
+2022-11-19 14:00:29,840:services:Session Created
+2022-11-19 19:37:49,089:services:Creating the session with the db 
+2022-11-19 19:37:49,128:services:Validating the name and phone_number before inserting it into the database.
+2022-11-19 19:37:49,129:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-19 19:37:49,129:services:Database object formed
+2022-11-19 19:37:49,129:services:Adding to the database
+2022-11-19 19:37:49,133:services:Record successfully added nameO’Malley, John Fand phone_number is46572.4542
+2022-11-19 19:37:49,139:services:Session Created
+2022-11-19 20:03:43,869:services:Creating the session with the db 
+2022-11-19 20:03:43,879:main:User already exists ravi
+2022-11-19 21:24:34,900:services:Creating the session with the db 
+2022-11-19 21:24:34,912:services:Validating the name and phone_number before inserting it into the database.
+2022-11-19 21:24:34,913:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-19 21:24:34,913:services:Database object formed
+2022-11-19 21:24:34,913:services:Adding to the database
+2022-11-19 21:24:34,916:services:Record successfully added name raju and phone_number is 465723.45423
+2022-11-19 21:25:21,093:services:Creating the session with the db 
+2022-11-19 21:25:21,103:main:User already exists raju
+2022-11-19 21:25:47,434:services:Creating the session with the db 
+2022-11-19 21:25:47,439:services:Validating the name and phone_number before inserting it into the database.
+2022-11-19 21:25:47,446:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-19 21:25:47,447:services:Database object formed
+2022-11-19 21:25:47,447:services:Adding to the database
+2022-11-19 21:25:47,467:services:Record successfully added name rahim and phone_number is 4657235.45423
+2022-11-19 21:26:31,172:services:Creating the session with the db 
+2022-11-19 21:26:31,192:main:User already exists rahim
+2022-11-19 21:26:50,805:services:Creating the session with the db 
+2022-11-19 21:26:50,814:services:Validating the name and phone_number before inserting it into the database.
+2022-11-19 21:26:50,819:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-19 21:26:50,820:services:Database object formed
+2022-11-19 21:26:50,820:services:Adding to the database
+2022-11-19 21:26:50,829:services:Record successfully added name rahimu and phone_number is 4657935.45423
+2022-11-19 21:26:50,832:services:Session Created
+2022-11-20 12:29:51,706:services:Creating the session with the db 
+2022-11-20 12:29:51,744:services:Validating the name and phone_number before inserting it into the database.
+2022-11-20 12:29:51,744:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-20 12:29:51,744:services:Database object formed
+2022-11-20 12:29:51,744:services:Adding to the database
+2022-11-20 12:29:51,749:services:Record successfully added name rahimu and phone_number is 4657935.45423
+2022-11-20 12:29:51,752:services:Session Created
+2022-11-20 12:32:29,963:services:Creating the session with the db 
+2022-11-20 12:32:29,970:main:List of all users returned
+2022-11-20 12:32:29,972:services:Session Created
+2022-11-21 23:07:32,376:services:Creating the session with the db 
+2022-11-21 23:07:32,412:services:Validating the name and phone_number before inserting it into the database.
+2022-11-21 23:07:32,414:services:Session Created
+2022-11-21 23:08:15,680:services:Creating the session with the db 
+2022-11-21 23:08:15,697:services:Validating the name and phone_number before inserting it into the database.
+2022-11-21 23:08:15,697:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-21 23:08:15,698:services:Database object formed
+2022-11-21 23:08:15,698:services:Adding to the database
+2022-11-21 23:08:15,709:services:Record successfully added name Schneier, Bruce and phone_number is (703)111-2121
+2022-11-21 23:08:15,715:services:Session Created
+2022-11-21 23:09:10,097:services:Creating the session with the db 
+2022-11-21 23:09:10,123:services:Validating the name and phone_number before inserting it into the database.
+2022-11-21 23:09:10,125:services:Session Created
+2022-11-21 23:10:47,958:services:Creating the session with the db 
+2022-11-21 23:10:47,974:services:Validating the name and phone_number before inserting it into the database.
+2022-11-21 23:10:47,975:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-21 23:10:47,979:services:Database object formed
+2022-11-21 23:10:47,984:services:Adding to the database
+2022-11-21 23:10:47,988:services:Record successfully added name O’Malley, John F. and phone_number is +1(703)111-2121
+2022-11-21 23:10:47,993:services:Session Created
+2022-11-21 23:11:28,361:services:Creating the session with the db 
+2022-11-21 23:11:28,372:services:Validating the name and phone_number before inserting it into the database.
+2022-11-21 23:11:28,374:services:Session Created
+2022-11-21 23:12:08,757:services:Creating the session with the db 
+2022-11-21 23:12:08,766:services:Validating the name and phone_number before inserting it into the database.
+2022-11-21 23:12:08,770:services:Session Created
+2022-11-21 23:12:24,921:services:Creating the session with the db 
+2022-11-21 23:12:24,929:services:Validating the name and phone_number before inserting it into the database.
+2022-11-21 23:12:24,929:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-21 23:12:24,930:services:Database object formed
+2022-11-21 23:12:24,930:services:Adding to the database
+2022-11-21 23:12:24,936:services:Record successfully added name Cher and phone_number is 011 701 111 1234
+2022-11-21 23:12:24,940:services:Session Created
+2022-11-21 23:12:55,565:services:Creating the session with the db 
+2022-11-21 23:12:55,581:main:Phone already exists 011 701 111 1234
+2022-11-21 23:21:46,221:services:Creating the session with the db 
+2022-11-21 23:21:46,234:main:Phone already exists 011 701 111 1234
+2022-11-21 23:21:58,383:services:Creating the session with the db 
+2022-11-21 23:21:58,399:main:Phone already exists 011 701 111 1234
+2022-11-21 23:24:09,970:services:Creating the session with the db 
+2022-11-21 23:24:09,985:main:User already exists rahimu
+2022-11-21 23:26:29,909:services:Creating the session with the db 
+2022-11-21 23:26:38,483:services:Creating the session with the db 
+2022-11-21 23:26:57,913:services:Creating the session with the db 
+2022-11-21 23:28:36,799:services:Creating the session with the db 
+2022-11-21 23:30:28,672:services:Creating the session with the db 
+2022-11-21 23:31:33,471:services:Creating the session with the db 
+2022-11-21 23:31:33,496:services:Validating the name and phone_number before inserting it into the database.
+2022-11-21 23:31:33,496:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-21 23:31:33,496:services:Database object formed
+2022-11-21 23:31:33,496:services:Adding to the database
+2022-11-21 23:31:33,502:services:Record successfully added name rahim and phone_number is 1234.1234
+2022-11-21 23:31:33,505:services:Session Created
+2022-11-21 23:31:41,016:services:Creating the session with the db 
+2022-11-21 23:31:41,033:main:User already exists rahim
+2022-11-21 23:37:03,551:services:Creating the session with the db 
+2022-11-21 23:37:03,567:main:User not found
+NoneType: None
+2022-11-21 23:37:36,547:services:Creating the session with the db 
+2022-11-21 23:37:36,568:main:User not found
+NoneType: None
+2022-11-21 23:38:17,222:services:Creating the session with the db 
+2022-11-21 23:38:17,232:main:User not found
+NoneType: None
+2022-11-21 23:39:27,429:services:Creating the session with the db 
+2022-11-21 23:39:27,448:main:User not found
+NoneType: None
+2022-11-21 23:40:48,676:services:Creating the session with the db 
+2022-11-21 23:40:48,688:main:User not found
+NoneType: None
+2022-11-21 23:41:36,492:services:Creating the session with the db 
+2022-11-21 23:41:36,504:main:User not found
+NoneType: None
+2022-11-21 23:45:55,247:services:Creating the session with the db 
+2022-11-21 23:45:55,258:main:User not found
+NoneType: None
+2022-11-21 23:47:29,963:services:Creating the session with the db 
+2022-11-21 23:47:29,975:main:User not found
+NoneType: None
+2022-11-21 23:51:51,517:services:Creating the session with the db 
+2022-11-21 23:51:51,534:main:User not found
+NoneType: None
+2022-11-21 23:51:51,534:services:Session Created
+2022-11-21 23:52:28,709:services:Creating the session with the db 
+2022-11-21 23:52:28,719:main:User not found
+NoneType: None
+2022-11-21 23:52:38,841:services:Creating the session with the db 
+2022-11-21 23:52:38,851:main:User not found
+NoneType: None
+2022-11-21 23:52:38,852:services:Session Created
+2022-11-21 23:53:20,263:services:Creating the session with the db 
+2022-11-21 23:53:20,274:main:User not found
+NoneType: None
+2022-11-21 23:53:20,276:services:Session Created
+2022-11-21 23:54:48,226:services:Creating the session with the db 
+2022-11-21 23:54:48,236:main:User not found
+NoneType: None
+2022-11-21 23:54:48,238:services:Session Created
+2022-11-21 23:56:50,238:services:Creating the session with the db 
+2022-11-21 23:56:50,253:main:User not found
+NoneType: None
+2022-11-21 23:56:50,254:services:Session Created
+2022-11-21 23:57:17,248:services:Creating the session with the db 
+2022-11-21 23:57:17,259:main:User not found
+NoneType: None
+2022-11-21 23:57:17,261:services:Session Created
+2022-11-22 00:00:08,099:services:Creating the session with the db 
+2022-11-22 00:00:08,120:main:User not found
+NoneType: None
+2022-11-22 00:01:28,254:services:Creating the session with the db 
+2022-11-22 00:01:28,266:main:User not found
+NoneType: None
+2022-11-22 00:01:28,267:services:Session Created
+2022-11-22 00:06:41,475:services:Creating the session with the db 
+2022-11-22 00:06:41,527:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:06:41,529:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-22 00:06:41,529:services:Database object formed
+2022-11-22 00:06:41,529:services:Adding to the database
+2022-11-22 00:06:41,543:services:Record successfully added name bruce schneier and phone_number is 4531.4532
+2022-11-22 00:06:41,551:services:Session Created
+2022-11-22 00:07:08,199:services:Creating the session with the db 
+2022-11-22 00:07:08,227:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:07:08,230:services:Session Created
+2022-11-22 00:07:18,797:services:Creating the session with the db 
+2022-11-22 00:07:18,832:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:07:18,833:services:Session Created
+2022-11-22 00:09:50,350:services:Creating the session with the db 
+2022-11-22 00:09:50,363:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:09:50,363:services:Name validation is successful
+2022-11-22 00:09:50,364:services:Session Created
+2022-11-22 00:10:36,828:services:Creating the session with the db 
+2022-11-22 00:10:36,839:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:10:36,839:services:Name validation is successful
+2022-11-22 00:10:36,840:services:Session Created
+2022-11-22 00:29:07,651:services:Creating the session with the db 
+2022-11-22 00:29:07,670:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:29:07,671:services:Name validation is successful
+2022-11-22 00:29:07,671:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-22 00:29:07,671:services:Database object formed
+2022-11-22 00:29:07,671:services:Adding to the database
+2022-11-22 00:29:07,673:services:Record successfully added name ram and phone_number is 12345
+2022-11-22 00:29:07,675:services:Session Created
+2022-11-22 00:33:57,392:services:Creating the session with the db 
+2022-11-22 00:33:57,425:main:Phone already exists (703)111-2121
+2022-11-22 00:33:57,431:services:Session Created
+2022-11-22 00:34:45,160:services:Creating the session with the db 
+2022-11-22 00:34:45,177:main:Phone already exists +1(703)111-2121
+2022-11-22 00:34:45,178:services:Session Created
+2022-11-22 00:35:06,664:services:Creating the session with the db 
+2022-11-22 00:35:06,677:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:35:06,678:services:Name validation is successful
+2022-11-22 00:35:06,683:services:Phone validation is successful
+2022-11-22 00:35:06,683:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-22 00:35:06,684:services:Database object formed
+2022-11-22 00:35:06,684:services:Adding to the database
+2022-11-22 00:35:06,692:services:Record successfully added name rajma and phone_number is +1(703)111-2122
+2022-11-22 00:35:06,697:services:Session Created
+2022-11-22 00:35:40,167:services:Creating the session with the db 
+2022-11-22 00:35:40,196:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:35:40,196:services:Name validation is successful
+2022-11-22 00:35:40,198:services:Session Created
+2022-11-22 00:38:19,057:services:Creating the session with the db 
+2022-11-22 00:38:19,069:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:38:19,070:services:Name validation is successful
+2022-11-22 00:38:19,071:services:Session Created
+2022-11-22 00:40:03,868:services:Creating the session with the db 
+2022-11-22 00:40:03,879:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:40:03,879:services:Name validation is successful
+2022-11-22 00:40:03,880:services:Phone validation is successful
+2022-11-22 00:40:03,880:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-22 00:40:03,880:services:Database object formed
+2022-11-22 00:40:03,880:services:Adding to the database
+2022-11-22 00:40:03,882:services:Record successfully added name rajmaa and phone_number is +32(24)212-2324
+2022-11-22 00:40:03,885:services:Session Created
+2022-11-22 00:41:14,963:services:Creating the session with the db 
+2022-11-22 00:41:14,987:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:41:14,988:services:Name validation is successful
+2022-11-22 00:41:14,988:services:Phone validation is successful
+2022-11-22 00:41:14,988:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-22 00:41:14,988:services:Database object formed
+2022-11-22 00:41:14,988:services:Adding to the database
+2022-11-22 00:41:14,999:services:Record successfully added name rajanaa and phone_number is (001)123-1234
+2022-11-22 00:41:15,002:services:Session Created
+2022-11-22 00:43:06,462:services:Creating the session with the db 
+2022-11-22 00:43:06,481:main:User already exists rajanaa
+2022-11-22 00:43:06,483:services:Session Created
+2022-11-22 00:43:14,899:services:Creating the session with the db 
+2022-11-22 00:43:14,903:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 00:43:14,904:services:Name validation is successful
+2022-11-22 00:43:14,904:services:Phone validation is successful
+2022-11-22 00:43:14,904:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-22 00:43:14,904:services:Database object formed
+2022-11-22 00:43:14,905:services:Adding to the database
+2022-11-22 00:43:14,909:services:Record successfully added name rajanaas and phone_number is (002) 123-1234
+2022-11-22 00:43:14,913:services:Session Created
+2022-11-22 01:54:46,338:services:Creating the session with the db 
+2022-11-22 01:54:46,388:main:User already exists rajanaas
+2022-11-22 01:54:46,391:services:Session Created
+2022-11-22 01:54:52,892:services:Creating the session with the db 
+2022-11-22 01:54:52,905:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 01:54:52,906:services:Name validation is successful
+2022-11-22 01:54:52,907:services:Session Created
+2022-11-22 01:55:19,279:services:Creating the session with the db 
+2022-11-22 01:55:19,298:services:Validating the name and phone_number before inserting it into the database.
+2022-11-22 01:55:19,298:services:Name validation is successful
+2022-11-22 01:55:19,299:services:Session Created
+2022-11-23 13:04:27,551:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:04:27,552:services:Name validation is successful
+2022-11-23 13:04:27,552:services:Phone validation is successful
+2022-11-23 13:04:27,552:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:04:27,552:services:Database object formed
+2022-11-23 13:04:27,552:services:Adding to the database
+2022-11-23 13:04:27,554:services:Record successfully added name Rishabh and phone_number is +1 (682)-313-8425
+2022-11-23 13:05:47,489:main:User already exists Rishabh
+2022-11-23 13:06:04,701:main:User already exists Rishabh
+2022-11-23 13:06:21,607:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:06:21,607:services:Name validation is successful
+2022-11-23 13:06:21,608:services:Phone validation is successful
+2022-11-23 13:06:21,608:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:06:21,608:services:Database object formed
+2022-11-23 13:06:21,608:services:Adding to the database
+2022-11-23 13:06:21,610:services:Record successfully added name Ravi and phone_number is +1 (683)-313-8425
+2022-11-23 13:07:31,833:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:07:31,833:services:Name validation is successful
+2022-11-23 13:07:31,834:services:Phone validation is successful
+2022-11-23 13:07:31,834:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:07:31,834:services:Database object formed
+2022-11-23 13:07:31,834:services:Adding to the database
+2022-11-23 13:07:31,836:services:Record successfully added name Raju and phone_number is +1 (689)-313-8425
+2022-11-23 13:12:29,341:main:User already exists Raju
+2022-11-23 13:14:17,714:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:14:17,714:services:Name validation is successful
+2022-11-23 13:14:17,715:services:Phone validation is successful
+2022-11-23 13:14:17,715:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:14:17,715:services:Database object formed
+2022-11-23 13:14:17,715:services:Adding to the database
+2022-11-23 13:14:17,716:services:Record successfully added name Rajiv and phone_number is +1 (789)-313-8425
+2022-11-23 13:19:14,935:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:19:14,936:services:Name validation is successful
+2022-11-23 13:19:14,936:services:Phone validation is successful
+2022-11-23 13:19:14,936:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:19:14,936:services:Database object formed
+2022-11-23 13:19:14,936:services:Adding to the database
+2022-11-23 13:19:14,938:services:Record successfully added name Rawejiv and phone_number is +1 (489)-313-8425
+2022-11-23 13:25:21,638:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:25:21,645:services:Name validation is successful
+2022-11-23 13:25:21,646:services:Phone validation is successful
+2022-11-23 13:25:21,646:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:25:21,646:services:Database object formed
+2022-11-23 13:25:21,646:services:Adding to the database
+2022-11-23 13:25:21,648:services:Record successfully added name Rakwejiv and phone_number is +1 (489)-316-8425
+2022-11-23 13:26:12,199:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:26:12,200:services:Name validation is successful
+2022-11-23 13:26:12,200:services:Phone validation is successful
+2022-11-23 13:26:12,200:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:26:12,200:services:Database object formed
+2022-11-23 13:26:12,200:services:Adding to the database
+2022-11-23 13:26:12,202:services:Record successfully added name Rakwiejiv and phone_number is +1 (489)-396-8425
+2022-11-23 13:27:27,648:main:Phone already exists +1 (489)-396-8425
+2022-11-23 13:27:53,831:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:27:53,832:services:Name validation is successful
+2022-11-23 13:27:53,832:services:Phone validation is successful
+2022-11-23 13:27:53,832:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:27:53,832:services:Database object formed
+2022-11-23 13:27:53,832:services:Adding to the database
+2022-11-23 13:27:53,834:services:Record successfully added name Rakdwwiejiv and phone_number is +1 (579)-396-8425
+2022-11-23 13:30:34,804:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:30:34,804:services:Name validation is successful
+2022-11-23 13:30:34,805:services:Phone validation is successful
+2022-11-23 13:30:34,805:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:30:34,805:services:Database object formed
+2022-11-23 13:30:34,805:services:Adding to the database
+2022-11-23 13:30:34,807:services:Record successfully added name Rakdwwiejwsdv and phone_number is +1 (979)-396-8425
+2022-11-23 13:33:14,717:main:User already exists Rakdwwiejwsdv
+2022-11-23 13:33:33,702:main:User already exists Rakdwwiejwsdv
+2022-11-23 13:33:47,364:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:33:47,364:services:Name validation is successful
+2022-11-23 13:33:47,365:services:Phone validation is successful
+2022-11-23 13:33:47,365:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:33:47,365:services:Database object formed
+2022-11-23 13:33:47,365:services:Adding to the database
+2022-11-23 13:33:47,368:services:Record successfully added name Pakdqaswiejwsdv and phone_number is +1 (999)-396-8425
+2022-11-23 13:35:04,797:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:35:04,797:services:Name validation is successful
+2022-11-23 13:35:04,797:services:Phone validation is successful
+2022-11-23 13:35:04,797:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:35:04,798:services:Database object formed
+2022-11-23 13:35:04,798:services:Adding to the database
+2022-11-23 13:35:04,799:services:Record successfully added name Jakdqaswiejwsdv and phone_number is +1 (999)-999-8425
+2022-11-23 13:40:37,521:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:40:37,522:services:Name validation is successful
+2022-11-23 13:40:37,522:services:Phone validation is successful
+2022-11-23 13:40:37,522:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:40:37,522:services:Database object formed
+2022-11-23 13:40:37,522:services:Adding to the database
+2022-11-23 13:40:37,524:services:Record successfully added name Javed and phone_number is +1 (333)-999-8425
+2022-11-23 13:41:16,717:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:41:16,718:services:Name validation is successful
+2022-11-23 13:41:16,718:services:Phone validation is successful
+2022-11-23 13:41:16,718:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:41:16,718:services:Database object formed
+2022-11-23 13:41:16,718:services:Adding to the database
+2022-11-23 13:41:16,720:services:Record successfully added name John and phone_number is +1 (682)-999-8425
+2022-11-23 13:42:37,681:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:42:37,681:services:Name validation is successful
+2022-11-23 13:42:37,681:services:Phone validation is successful
+2022-11-23 13:42:37,681:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:42:37,681:services:Database object formed
+2022-11-23 13:42:37,681:services:Adding to the database
+2022-11-23 13:42:37,683:services:Record successfully added name Johny and phone_number is +1 (683)-999-8425
+2022-11-23 13:44:55,114:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:44:55,115:services:Name validation is successful
+2022-11-23 13:44:55,115:services:Phone validation is successful
+2022-11-23 13:44:55,115:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:44:55,115:services:Database object formed
+2022-11-23 13:44:55,115:services:Adding to the database
+2022-11-23 13:44:55,117:services:Record successfully added name Johnyu and phone_number is +1 (685)-999-8425
+2022-11-23 13:45:13,266:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:45:13,267:services:Name validation is successful
+2022-11-23 13:45:13,267:services:Phone validation is successful
+2022-11-23 13:45:13,267:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:45:13,267:services:Database object formed
+2022-11-23 13:45:13,268:services:Adding to the database
+2022-11-23 13:45:13,269:services:Record successfully added name Johnyue and phone_number is +1 (686)-999-8425
+2022-11-23 13:46:54,157:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:46:54,158:services:Name validation is successful
+2022-11-23 13:46:54,158:services:Phone validation is successful
+2022-11-23 13:46:54,158:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:46:54,158:services:Database object formed
+2022-11-23 13:46:54,158:services:Adding to the database
+2022-11-23 13:46:54,160:services:Record successfully added name Johnyuegh and phone_number is +1 (688)-199-8425
+2022-11-23 13:50:11,256:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:50:11,257:services:Name validation is successful
+2022-11-23 13:50:11,257:services:Phone validation is successful
+2022-11-23 13:50:11,257:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:50:11,257:services:Database object formed
+2022-11-23 13:50:11,258:services:Adding to the database
+2022-11-23 13:50:11,259:services:Record successfully added name Johnyueght and phone_number is +1 (688)-299-8425
+2022-11-23 13:53:08,059:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:53:08,060:services:Name validation is successful
+2022-11-23 13:53:08,060:services:Phone validation is successful
+2022-11-23 13:53:08,060:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:53:08,060:services:Database object formed
+2022-11-23 13:53:08,060:services:Adding to the database
+2022-11-23 13:53:08,062:services:Record successfully added name Johnyueghtew and phone_number is +1 (888)-299-8425
+2022-11-23 13:55:02,240:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 13:55:02,240:services:Name validation is successful
+2022-11-23 13:55:02,241:services:Phone validation is successful
+2022-11-23 13:55:02,241:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 13:55:02,241:services:Database object formed
+2022-11-23 13:55:02,241:services:Adding to the database
+2022-11-23 13:55:02,243:services:Record successfully added name Johnyueghtewzs and phone_number is +1 (887)-299-8425
+2022-11-23 14:21:21,669:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 14:21:21,670:services:Name validation is successful
+2022-11-23 14:21:21,670:services:Phone validation is successful
+2022-11-23 14:21:21,670:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 14:21:21,671:services:Database object formed
+2022-11-23 14:21:21,671:services:Adding to the database
+2022-11-23 14:21:21,672:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 14:21:21,679:main:Phone already exists +1 (887)-299-8425
+2022-11-23 14:21:21,721:main:User already exists Terry
+2022-11-23 14:43:21,517:main:User already exists Terry
+2022-11-23 14:43:21,564:main:Phone already exists +1 (887)-299-8425
+2022-11-23 14:43:21,571:main:User already exists Terry
+2022-11-23 14:43:53,575:main:User already exists Terry
+2022-11-23 14:43:53,617:main:Phone already exists +1 (887)-299-8425
+2022-11-23 14:43:53,623:main:User already exists Terry
+2022-11-23 14:43:53,628:main:List of all users returned
+2022-11-23 15:03:57,372:main:User already exists Terry
+2022-11-23 15:03:57,414:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:03:57,420:main:User already exists Terry
+2022-11-23 15:03:57,426:main:List of all users returned
+2022-11-23 15:03:57,432:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:03:57,432:services:Name validation is successful
+2022-11-23 15:03:57,432:services:Phone validation is successful
+2022-11-23 15:03:57,432:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:03:57,433:services:Database object formed
+2022-11-23 15:03:57,433:services:Adding to the database
+2022-11-23 15:03:57,435:services:Record successfully added name Madhu and phone_number is +1 (682)-376-1110
+2022-11-23 15:03:57,438:services:Name validation is successful
+2022-11-23 15:03:57,439:main:User not found
+NoneType: None
+2022-11-23 15:06:18,936:main:User already exists Terry
+2022-11-23 15:06:18,979:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:06:18,985:main:User already exists Terry
+2022-11-23 15:06:18,991:main:List of all users returned
+2022-11-23 15:06:18,995:main:User already exists Madhu
+2022-11-23 15:07:48,026:main:User already exists Terry
+2022-11-23 15:07:48,069:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:07:48,075:main:User already exists Terry
+2022-11-23 15:07:48,080:main:List of all users returned
+2022-11-23 15:07:48,086:services:Name validation is successful
+2022-11-23 15:07:48,087:main:User not found
+NoneType: None
+2022-11-23 15:10:26,174:main:User already exists Terry
+2022-11-23 15:10:26,219:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:10:26,224:main:User already exists Terry
+2022-11-23 15:10:26,229:main:List of all users returned
+2022-11-23 15:10:26,234:services:Name validation is successful
+2022-11-23 15:10:26,236:main:User is deleted Madhu
+2022-11-23 15:11:47,135:main:User already exists Terry
+2022-11-23 15:11:47,179:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:11:47,184:main:User already exists Terry
+2022-11-23 15:11:47,190:main:List of all users returned
+2022-11-23 15:11:47,194:services:Name validation is successful
+2022-11-23 15:11:47,197:main:User is deleted Terry
+2022-11-23 15:12:54,120:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:12:54,121:services:Name validation is successful
+2022-11-23 15:12:54,121:services:Phone validation is successful
+2022-11-23 15:12:54,121:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:12:54,121:services:Database object formed
+2022-11-23 15:12:54,121:services:Adding to the database
+2022-11-23 15:12:54,122:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 15:12:54,128:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:12:54,173:main:User already exists Terry
+2022-11-23 15:12:54,178:main:List of all users returned
+2022-11-23 15:12:54,182:services:Name validation is successful
+2022-11-23 15:12:54,184:main:User is deleted Terry
+2022-11-23 15:15:24,146:services:Creating the session with the db 
+2022-11-23 15:15:24,148:services:Name validation is successful
+2022-11-23 15:15:24,163:main:User is deleted rahimu
+2022-11-23 15:15:24,163:services:Session Created
+2022-11-23 15:16:34,560:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:16:34,560:services:Name validation is successful
+2022-11-23 15:16:34,560:services:Phone validation is successful
+2022-11-23 15:16:34,560:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:16:34,560:services:Database object formed
+2022-11-23 15:16:34,561:services:Adding to the database
+2022-11-23 15:16:34,563:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 15:16:34,568:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:16:34,612:main:User already exists Terry
+2022-11-23 15:16:34,617:main:List of all users returned
+2022-11-23 15:16:34,623:services:Name validation is successful
+2022-11-23 15:16:34,625:main:User is deleted Terry
+2022-11-23 15:18:08,904:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:18:08,904:services:Name validation is successful
+2022-11-23 15:18:08,905:services:Phone validation is successful
+2022-11-23 15:18:08,905:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:18:08,905:services:Database object formed
+2022-11-23 15:18:08,905:services:Adding to the database
+2022-11-23 15:18:08,907:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 15:18:08,913:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:18:08,957:main:User already exists Terry
+2022-11-23 15:18:08,962:main:List of all users returned
+2022-11-23 15:18:54,033:main:User already exists Terry
+2022-11-23 15:18:54,074:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:18:54,081:main:User already exists Terry
+2022-11-23 15:18:54,087:main:List of all users returned
+2022-11-23 15:18:54,092:services:Name validation is successful
+2022-11-23 15:18:54,094:main:User is deleted Terry
+2022-11-23 15:25:00,188:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:25:00,188:services:Name validation is successful
+2022-11-23 15:25:00,188:services:Phone validation is successful
+2022-11-23 15:25:00,189:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:25:00,189:services:Database object formed
+2022-11-23 15:25:00,189:services:Adding to the database
+2022-11-23 15:25:00,191:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 15:25:00,196:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:25:00,237:main:User already exists Terry
+2022-11-23 15:25:00,245:main:List of all users returned
+2022-11-23 15:25:00,250:services:Name validation is successful
+2022-11-23 15:25:00,252:main:User is deleted Terry
+2022-11-23 15:25:00,261:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:25:00,261:services:Name validation is successful
+2022-11-23 15:25:00,261:services:Phone validation is successful
+2022-11-23 15:25:00,261:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:25:00,261:services:Database object formed
+2022-11-23 15:25:00,261:services:Adding to the database
+2022-11-23 15:25:00,262:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 15:25:00,265:services:Phone validation is successful
+2022-11-23 15:26:06,781:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:26:06,782:services:Name validation is successful
+2022-11-23 15:26:06,782:services:Phone validation is successful
+2022-11-23 15:26:06,782:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:26:06,782:services:Database object formed
+2022-11-23 15:26:06,782:services:Adding to the database
+2022-11-23 15:26:06,784:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 15:26:06,790:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:26:06,834:main:User already exists Terry
+2022-11-23 15:26:06,841:main:List of all users returned
+2022-11-23 15:26:06,845:services:Name validation is successful
+2022-11-23 15:26:06,849:main:User is deleted Terry
+2022-11-23 15:26:06,857:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:26:06,857:services:Name validation is successful
+2022-11-23 15:26:06,857:services:Phone validation is successful
+2022-11-23 15:26:06,857:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:26:06,858:services:Database object formed
+2022-11-23 15:26:06,858:services:Adding to the database
+2022-11-23 15:26:06,859:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 15:26:06,861:services:Phone validation is successful
+2022-11-23 15:28:21,953:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:28:21,954:services:Name validation is successful
+2022-11-23 15:28:21,954:services:Phone validation is successful
+2022-11-23 15:28:21,954:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:28:21,954:services:Database object formed
+2022-11-23 15:28:21,954:services:Adding to the database
+2022-11-23 15:28:21,956:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 15:28:21,962:main:Phone already exists +1 (887)-299-8425
+2022-11-23 15:28:22,003:main:User already exists Terry
+2022-11-23 15:28:22,011:main:List of all users returned
+2022-11-23 15:28:22,015:services:Name validation is successful
+2022-11-23 15:28:22,017:main:User is deleted Terry
+2022-11-23 15:28:22,026:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 15:28:22,026:services:Name validation is successful
+2022-11-23 15:28:22,026:services:Phone validation is successful
+2022-11-23 15:28:22,026:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 15:28:22,026:services:Database object formed
+2022-11-23 15:28:22,026:services:Adding to the database
+2022-11-23 15:28:22,027:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 15:28:22,030:services:Phone validation is successful
+2022-11-23 18:54:39,651:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 18:54:39,651:services:Name validation is successful
+2022-11-23 18:54:39,651:services:Phone validation is successful
+2022-11-23 18:54:39,651:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 18:54:39,652:services:Database object formed
+2022-11-23 18:54:39,652:services:Adding to the database
+2022-11-23 18:54:39,654:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 18:54:39,660:main:Phone already exists +1 (887)-299-8425
+2022-11-23 18:54:39,701:main:User already exists Terry
+2022-11-23 18:54:39,708:main:List of all users returned
+2022-11-23 18:54:39,713:services:Name validation is successful
+2022-11-23 18:54:39,715:main:User is deleted Terry
+2022-11-23 18:54:39,723:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 18:54:39,724:services:Name validation is successful
+2022-11-23 18:54:39,724:services:Phone validation is successful
+2022-11-23 18:54:39,724:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 18:54:39,724:services:Database object formed
+2022-11-23 18:54:39,724:services:Adding to the database
+2022-11-23 18:54:39,725:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 18:54:39,729:services:Phone validation is successful
+2022-11-23 19:21:59,267:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 19:21:59,268:services:Name validation is successful
+2022-11-23 19:21:59,268:services:Phone validation is successful
+2022-11-23 19:21:59,268:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 19:21:59,268:services:Database object formed
+2022-11-23 19:21:59,268:services:Adding to the database
+2022-11-23 19:21:59,273:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 19:21:59,280:main:Phone number already exists +1 (887)-299-8425
+2022-11-23 19:21:59,323:main:User already exists Terry
+2022-11-23 19:21:59,328:main:User already exists Terry
+2022-11-23 19:21:59,334:main:List of all users returned
+2022-11-23 19:21:59,339:services:Name validation is successful
+2022-11-23 19:21:59,342:main:User is deleted Terry
+2022-11-23 19:21:59,350:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 19:21:59,350:services:Name validation is successful
+2022-11-23 19:21:59,350:services:Phone validation is successful
+2022-11-23 19:21:59,350:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 19:21:59,350:services:Database object formed
+2022-11-23 19:21:59,350:services:Adding to the database
+2022-11-23 19:21:59,352:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 19:21:59,356:services:Phone validation is successful
+2022-11-23 19:26:57,836:services:Creating the session with the db 
+2022-11-23 19:26:57,846:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 19:26:57,846:services:Name validation is successful
+2022-11-23 19:26:57,847:services:Phone validation is successful
+2022-11-23 19:26:57,847:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 19:26:57,847:services:Database object formed
+2022-11-23 19:26:57,847:services:Adding to the database
+2022-11-23 19:26:57,852:services:Record successfully added name  and phone_number is 682347
+2022-11-23 19:26:57,855:services:Session Created
+2022-11-23 19:27:23,014:services:Creating the session with the db 
+2022-11-23 19:27:23,017:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 19:27:23,017:services:Name validation is successful
+2022-11-23 19:27:23,017:services:Phone validation is successful
+2022-11-23 19:27:23,017:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 19:27:23,017:services:Database object formed
+2022-11-23 19:27:23,017:services:Adding to the database
+2022-11-23 19:27:23,019:services:Record successfully added name string and phone_number is 68234789
+2022-11-23 19:27:23,022:services:Session Created
+2022-11-23 19:51:38,973:services:Creating the session with the db 
+2022-11-23 19:51:38,988:main:User already exists string
+2022-11-23 19:51:38,989:services:Session Created
+2022-11-23 19:54:09,019:services:Creating the session with the db 
+2022-11-23 19:54:09,021:services:Session Created
+2022-11-23 19:54:36,924:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 19:54:36,925:services:Name validation is successful
+2022-11-23 19:54:36,925:services:Phone validation is successful
+2022-11-23 19:54:36,925:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 19:54:36,925:services:Database object formed
+2022-11-23 19:54:36,925:services:Adding to the database
+2022-11-23 19:54:36,927:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 19:54:36,935:main:User already exists Terry
+2022-11-23 19:54:36,980:main:User already exists Terry
+2022-11-23 19:54:36,984:main:List of all users returned
+2022-11-23 19:54:36,990:services:Name validation is successful
+2022-11-23 19:54:36,992:main:User is deleted Terry
+2022-11-23 19:54:37,001:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 19:54:37,002:services:Name validation is successful
+2022-11-23 19:54:37,002:services:Phone validation is successful
+2022-11-23 19:54:37,002:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 19:54:37,002:services:Database object formed
+2022-11-23 19:54:37,002:services:Adding to the database
+2022-11-23 19:54:37,003:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 19:54:37,006:services:Phone validation is successful
+2022-11-23 20:12:04,137:services:Creating the session with the db 
+2022-11-23 20:12:04,138:main:Error with the name .Try with the appropriate format
+NoneType: None
+2022-11-23 20:12:04,140:services:Session Created
+2022-11-23 20:12:37,441:services:Creating the session with the db 
+2022-11-23 20:12:37,444:services:Name validation is successful
+2022-11-23 20:12:37,461:main:User is deleted ram
+2022-11-23 20:12:37,462:services:Session Created
+2022-11-23 20:13:57,172:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:13:57,172:services:Name validation is successful
+2022-11-23 20:13:57,173:services:Phone validation is successful
+2022-11-23 20:13:57,173:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:13:57,173:services:Database object formed
+2022-11-23 20:13:57,173:services:Adding to the database
+2022-11-23 20:13:57,175:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 20:13:57,183:main:User already exists Terry
+2022-11-23 20:13:57,230:main:User already exists Terry
+2022-11-23 20:13:57,234:main:List of all users returned
+2022-11-23 20:13:57,240:services:Name validation is successful
+2022-11-23 20:13:57,242:main:User is deleted Terry
+2022-11-23 20:13:57,252:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:13:57,252:services:Name validation is successful
+2022-11-23 20:13:57,252:services:Phone validation is successful
+2022-11-23 20:13:57,252:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:13:57,252:services:Database object formed
+2022-11-23 20:13:57,252:services:Adding to the database
+2022-11-23 20:13:57,253:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 20:13:57,256:services:Phone validation is successful
+2022-11-23 20:14:43,483:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:14:43,483:services:Name validation is successful
+2022-11-23 20:14:43,483:services:Phone validation is successful
+2022-11-23 20:14:43,483:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:14:43,484:services:Database object formed
+2022-11-23 20:14:43,484:services:Adding to the database
+2022-11-23 20:14:43,485:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 20:14:43,494:main:User already exists Terry
+2022-11-23 20:14:43,542:main:User already exists Terry
+2022-11-23 20:14:43,549:main:List of all users returned
+2022-11-23 20:14:43,553:services:Name validation is successful
+2022-11-23 20:14:43,555:main:User is deleted Terry
+2022-11-23 20:14:43,564:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:14:43,564:services:Name validation is successful
+2022-11-23 20:14:43,564:services:Phone validation is successful
+2022-11-23 20:14:43,564:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:14:43,564:services:Database object formed
+2022-11-23 20:14:43,564:services:Adding to the database
+2022-11-23 20:14:43,565:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 20:14:43,568:services:Phone validation is successful
+2022-11-23 20:16:10,326:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:16:10,327:services:Name validation is successful
+2022-11-23 20:16:10,327:services:Phone validation is successful
+2022-11-23 20:16:10,327:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:16:10,327:services:Database object formed
+2022-11-23 20:16:10,327:services:Adding to the database
+2022-11-23 20:16:10,329:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 20:16:10,338:main:User already exists Terry
+2022-11-23 20:16:10,384:main:User already exists Terry
+2022-11-23 20:16:10,390:main:List of all users returned
+2022-11-23 20:16:10,396:services:Name validation is successful
+2022-11-23 20:16:10,399:main:User is deleted Terry
+2022-11-23 20:16:10,407:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:16:10,407:services:Name validation is successful
+2022-11-23 20:16:10,407:services:Phone validation is successful
+2022-11-23 20:16:10,407:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:16:10,407:services:Database object formed
+2022-11-23 20:16:10,407:services:Adding to the database
+2022-11-23 20:16:10,408:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 20:16:10,412:services:Phone validation is successful
+2022-11-23 20:16:32,308:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:16:32,309:services:Name validation is successful
+2022-11-23 20:16:32,309:services:Phone validation is successful
+2022-11-23 20:16:32,309:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:16:32,309:services:Database object formed
+2022-11-23 20:16:32,309:services:Adding to the database
+2022-11-23 20:16:32,312:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 20:16:32,321:main:User already existsTerry
+2022-11-23 20:16:32,367:main:User already existsTerry
+2022-11-23 20:16:32,370:main:List of all users returned
+2022-11-23 20:16:32,376:services:Name validation is successful
+2022-11-23 20:16:32,379:main:User is deleted Terry
+2022-11-23 20:16:32,387:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:16:32,387:services:Name validation is successful
+2022-11-23 20:16:32,387:services:Phone validation is successful
+2022-11-23 20:16:32,387:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:16:32,387:services:Database object formed
+2022-11-23 20:16:32,387:services:Adding to the database
+2022-11-23 20:16:32,388:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 20:16:32,391:services:Phone validation is successful
+2022-11-23 20:17:55,262:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:17:55,262:services:Name validation is successful
+2022-11-23 20:17:55,263:services:Phone validation is successful
+2022-11-23 20:17:55,263:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:17:55,263:services:Database object formed
+2022-11-23 20:17:55,263:services:Adding to the database
+2022-11-23 20:17:55,265:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 20:17:55,273:main:User already existsTerry
+2022-11-23 20:17:55,320:main:User already existsTerry
+2022-11-23 20:17:55,324:main:List of all users returned
+2022-11-23 20:17:55,330:services:Name validation is successful
+2022-11-23 20:17:55,332:main:User is deleted Terry
+2022-11-23 20:17:55,338:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:17:55,338:services:Name validation is successful
+2022-11-23 20:17:55,338:services:Phone validation is successful
+2022-11-23 20:17:55,338:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:17:55,338:services:Database object formed
+2022-11-23 20:17:55,338:services:Adding to the database
+2022-11-23 20:17:55,339:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 20:17:55,342:services:Phone validation is successful
+2022-11-23 20:18:29,831:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:18:29,831:services:Name validation is successful
+2022-11-23 20:18:29,832:services:Phone validation is successful
+2022-11-23 20:18:29,832:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:18:29,832:services:Database object formed
+2022-11-23 20:18:29,832:services:Adding to the database
+2022-11-23 20:18:29,834:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 20:18:29,843:main:User already exists Terry
+2022-11-23 20:18:29,887:main:User already exists Terry
+2022-11-23 20:18:29,892:main:List of all users returned
+2022-11-23 20:18:29,897:services:Name validation is successful
+2022-11-23 20:18:29,899:main:User is deleted Terry
+2022-11-23 20:18:29,908:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:18:29,908:services:Name validation is successful
+2022-11-23 20:18:29,908:services:Phone validation is successful
+2022-11-23 20:18:29,908:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:18:29,908:services:Database object formed
+2022-11-23 20:18:29,908:services:Adding to the database
+2022-11-23 20:18:29,909:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 20:18:29,914:services:Phone validation is successful
+2022-11-23 20:20:13,116:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:20:13,116:services:Name validation is successful
+2022-11-23 20:20:13,117:services:Phone validation is successful
+2022-11-23 20:20:13,117:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:20:13,117:services:Database object formed
+2022-11-23 20:20:13,117:services:Adding to the database
+2022-11-23 20:20:13,119:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 20:20:13,127:main:User already existsTerry
+2022-11-23 20:20:13,131:main:User already existsTerry
+2022-11-23 20:20:13,135:main:List of all users returned
+2022-11-23 20:20:13,139:services:Name validation is successful
+2022-11-23 20:20:13,141:main:User is deleted Terry
+2022-11-23 20:20:13,148:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:20:13,149:services:Name validation is successful
+2022-11-23 20:20:13,149:services:Phone validation is successful
+2022-11-23 20:20:13,149:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:20:13,149:services:Database object formed
+2022-11-23 20:20:13,149:services:Adding to the database
+2022-11-23 20:20:13,150:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 20:20:13,153:services:Phone validation is successful
+2022-11-23 20:21:06,993:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:21:06,993:services:Name validation is successful
+2022-11-23 20:21:06,994:services:Phone validation is successful
+2022-11-23 20:21:06,994:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:21:06,994:services:Database object formed
+2022-11-23 20:21:06,994:services:Adding to the database
+2022-11-23 20:21:06,996:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-23 20:21:07,004:main:User already existsTerry
+2022-11-23 20:21:07,008:main:User already existsTerry
+2022-11-23 20:21:07,013:main:List of all users returned
+2022-11-23 20:21:07,017:services:Name validation is successful
+2022-11-23 20:21:07,019:main:User is deleted Terry
+2022-11-23 20:21:07,025:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:21:07,025:services:Name validation is successful
+2022-11-23 20:21:07,025:services:Phone validation is successful
+2022-11-23 20:21:07,025:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:21:07,025:services:Database object formed
+2022-11-23 20:21:07,025:services:Adding to the database
+2022-11-23 20:21:07,026:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-23 20:21:07,030:services:Phone validation is successful
+2022-11-23 20:57:11,182:services:Creating the session with the db 
+2022-11-23 20:58:02,448:services:Creating the session with the db 
+2022-11-23 20:58:02,466:services:Validating the name and phone_number before inserting it into the database.
+2022-11-23 20:58:02,467:services:Name validation is successful
+2022-11-23 20:58:02,467:services:Phone validation is successful
+2022-11-23 20:58:02,467:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-23 20:58:02,468:services:Database object formed
+2022-11-23 20:58:02,468:services:Adding to the database
+2022-11-23 20:58:02,473:services:Record successfully added name Ravi and phone_number is +1 (682)-347-2028
+2022-11-23 20:58:02,475:services:Session Created
+2022-11-24 00:19:54,225:services:Creating the session with the db 
+2022-11-24 00:19:54,235:services:Validating the name and phone_number before inserting it into the database.
+2022-11-24 00:19:54,236:services:Name validation is successful
+2022-11-24 00:19:54,236:services:Phone validation is successful
+2022-11-24 00:19:54,236:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-24 00:19:54,236:services:Database object formed
+2022-11-24 00:19:54,236:services:Adding to the database
+2022-11-24 00:19:54,238:services:Record successfully added name shreya and phone_number is +1(684)-667-7770
+2022-11-24 00:19:54,239:services:Session Created
+2022-11-24 00:20:05,688:services:Creating the session with the db 
+2022-11-24 00:20:05,695:main:List of all users returned
+2022-11-24 00:20:05,702:services:Session Created
+2022-11-24 00:20:17,359:services:Creating the session with the db 
+2022-11-24 00:20:17,361:services:Name validation is successful
+2022-11-24 00:20:17,370:main:User is deleted shreya
+2022-11-24 00:20:17,371:services:Session Created
+2022-11-24 00:20:36,455:services:Creating the session with the db 
+2022-11-24 00:20:36,456:services:Phone validation is successful
+2022-11-24 00:20:36,464:services:Session Created
+2022-11-24 00:34:15,562:services:Creating the session with the db 
+2022-11-24 00:34:15,578:main:List of all users returned
+2022-11-24 00:34:15,587:services:Session Created
+2022-11-24 00:38:10,431:services:Creating the session with the db 
+2022-11-24 00:38:10,439:services:Validating the name and phone_number before inserting it into the database.
+2022-11-24 00:38:10,440:services:Name validation is successful
+2022-11-24 00:38:10,440:services:Phone validation is successful
+2022-11-24 00:38:10,440:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-24 00:38:10,440:services:Database object formed
+2022-11-24 00:38:10,440:services:Adding to the database
+2022-11-24 00:38:10,445:services:Record successfully added name Kohli and phone_number is (703)111-2139
+2022-11-24 00:38:10,447:services:Session Created
+2022-11-24 00:51:24,432:services:Creating the session with the db 
+2022-11-24 00:51:24,439:services:Name validation is successful
+2022-11-24 00:51:24,453:main:User is deleted Ravi
+2022-11-24 00:51:24,454:services:Session Created
+2022-11-24 00:51:56,419:services:Creating the session with the db 
+2022-11-24 00:51:56,421:services:Name validation is successful
+2022-11-24 00:51:56,426:main:User is deleted Kohli
+2022-11-24 00:51:56,432:services:Session Created
+2022-11-24 00:56:14,460:services:Creating the session with the db 
+2022-11-24 00:56:14,479:services:Session Created
+2022-11-24 01:08:17,481:services:Validating the name and phone_number before inserting it into the database.
+2022-11-24 01:08:17,482:services:Name validation is successful
+2022-11-24 01:08:17,482:services:Phone validation is successful
+2022-11-24 01:08:17,482:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-24 01:08:17,482:services:Database object formed
+2022-11-24 01:08:17,482:services:Adding to the database
+2022-11-24 01:08:17,485:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-24 01:08:17,494:main:User already existsTerry
+2022-11-24 01:08:17,499:main:User already existsTerry
+2022-11-24 01:08:17,504:main:List of all users returned
+2022-11-24 01:08:17,510:services:Name validation is successful
+2022-11-24 01:08:17,512:main:User is deleted Terry
+2022-11-24 01:08:17,520:services:Validating the name and phone_number before inserting it into the database.
+2022-11-24 01:08:17,520:services:Name validation is successful
+2022-11-24 01:08:17,520:services:Phone validation is successful
+2022-11-24 01:08:17,520:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-24 01:08:17,520:services:Database object formed
+2022-11-24 01:08:17,520:services:Adding to the database
+2022-11-24 01:08:17,521:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-24 01:08:17,525:services:Phone validation is successful
+2022-11-24 19:40:08,605:services:Creating the session with the db 
+2022-11-24 19:40:08,621:services:Validating the name and phone_number before inserting it into the database.
+2022-11-24 19:40:08,622:services:Name validation is successful
+2022-11-24 19:40:08,622:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-24 19:40:08,622:services:Database object formed
+2022-11-24 19:40:08,622:services:Adding to the database
+2022-11-24 19:40:08,627:services:Record successfully added name ron                          o' henry and phone_number is 68234
+2022-11-24 19:40:08,629:services:Session Created
+2022-11-25 17:30:51,958:services:Creating the session with the db 
+2022-11-25 17:30:51,969:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:30:51,970:services:Name validation is successful
+2022-11-25 17:30:51,970:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:30:51,970:services:Database object formed
+2022-11-25 17:30:51,970:services:Adding to the database
+2022-11-25 17:30:51,973:services:Record successfully added name bruce       schneier and phone_number is 12484
+2022-11-25 17:30:51,975:services:Session Created
+2022-11-25 17:37:07,894:services:Creating the session with the db 
+2022-11-25 17:37:07,906:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:37:07,907:services:Name validation is successful
+2022-11-25 17:37:07,907:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:37:07,907:services:Database object formed
+2022-11-25 17:37:07,907:services:Adding to the database
+2022-11-25 17:37:07,913:services:Record successfully added name dohg     bats and phone_number is 24484
+2022-11-25 17:37:07,916:services:Session Created
+2022-11-25 17:41:36,454:services:Creating the session with the db 
+2022-11-25 17:41:36,466:main:Phone number already exists 24484
+2022-11-25 17:41:36,467:services:Session Created
+2022-11-25 17:41:44,569:services:Creating the session with the db 
+2022-11-25 17:41:44,571:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:41:44,572:services:Session Created
+2022-11-25 17:44:04,655:services:Creating the session with the db 
+2022-11-25 17:44:04,662:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:44:04,663:services:Name validation is successful
+2022-11-25 17:44:04,663:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:44:04,663:services:Database object formed
+2022-11-25 17:44:04,663:services:Adding to the database
+2022-11-25 17:44:04,670:services:Record successfully added name Bruce Schneier  and phone_number is 35484
+2022-11-25 17:44:04,674:services:Session Created
+2022-11-25 17:44:24,919:services:Creating the session with the db 
+2022-11-25 17:44:24,922:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:44:24,923:services:Name validation is successful
+2022-11-25 17:44:24,923:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:44:24,923:services:Database object formed
+2022-11-25 17:44:24,923:services:Adding to the database
+2022-11-25 17:44:24,927:services:Record successfully added name Schneier, Bruce  and phone_number is 39484
+2022-11-25 17:44:24,930:services:Session Created
+2022-11-25 17:44:51,050:services:Creating the session with the db 
+2022-11-25 17:44:51,056:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:44:51,056:services:Name validation is successful
+2022-11-25 17:44:51,056:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:44:51,056:services:Database object formed
+2022-11-25 17:44:51,056:services:Adding to the database
+2022-11-25 17:44:51,061:services:Record successfully added name Schneier, Bruce Wayne and phone_number is 49484
+2022-11-25 17:44:51,064:services:Session Created
+2022-11-25 17:45:09,350:services:Creating the session with the db 
+2022-11-25 17:45:09,352:main:User already existsO’Malley, John F.
+2022-11-25 17:45:09,353:services:Session Created
+2022-11-25 17:47:56,635:services:Creating the session with the db 
+2022-11-25 17:47:56,653:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:47:56,653:services:Name validation is successful
+2022-11-25 17:47:56,653:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:47:56,654:services:Database object formed
+2022-11-25 17:47:56,654:services:Adding to the database
+2022-11-25 17:47:56,659:services:Record successfully added name O’Malley, John F. and phone_number is 44484
+2022-11-25 17:47:56,665:services:Session Created
+2022-11-25 17:49:47,467:services:Creating the session with the db 
+2022-11-25 17:49:47,471:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:49:47,472:services:Name validation is successful
+2022-11-25 17:49:47,472:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:49:47,472:services:Database object formed
+2022-11-25 17:49:47,472:services:Adding to the database
+2022-11-25 17:49:47,477:services:Record successfully added name John O’Malley-Smith and phone_number is 84484
+2022-11-25 17:49:47,480:services:Session Created
+2022-11-25 17:50:06,032:services:Creating the session with the db 
+2022-11-25 17:50:06,035:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:50:06,036:services:Name validation is successful
+2022-11-25 17:50:06,036:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:50:06,036:services:Database object formed
+2022-11-25 17:50:06,036:services:Adding to the database
+2022-11-25 17:50:06,040:services:Record successfully added name Ron O’’Henry and phone_number is 84487
+2022-11-25 17:50:06,044:services:Session Created
+2022-11-25 17:50:17,052:services:Creating the session with the db 
+2022-11-25 17:50:17,054:main:User already existsRon O’’Henry
+2022-11-25 17:50:17,055:services:Session Created
+2022-11-25 17:58:27,687:services:Creating the session with the db 
+2022-11-25 17:58:27,701:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:58:27,702:services:Session Created
+2022-11-25 17:58:49,860:services:Creating the session with the db 
+2022-11-25 17:58:49,863:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 17:58:49,864:services:Name validation is successful
+2022-11-25 17:58:49,864:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 17:58:49,864:services:Database object formed
+2022-11-25 17:58:49,864:services:Adding to the database
+2022-11-25 17:58:49,873:services:Record successfully added name Ron O’’Henry and phone_number is 84489
+2022-11-25 17:58:49,877:services:Session Created
+2022-11-25 18:02:16,304:services:Creating the session with the db 
+2022-11-25 18:02:16,317:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:02:16,319:services:Session Created
+2022-11-25 18:02:55,140:services:Creating the session with the db 
+2022-11-25 18:02:55,144:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:02:55,145:services:Session Created
+2022-11-25 18:03:14,673:services:Creating the session with the db 
+2022-11-25 18:03:14,679:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:03:14,680:services:Session Created
+2022-11-25 18:03:29,387:services:Creating the session with the db 
+2022-11-25 18:03:29,389:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:03:29,390:services:Session Created
+2022-11-25 18:03:45,406:services:Creating the session with the db 
+2022-11-25 18:03:45,410:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:03:45,411:services:Session Created
+2022-11-25 18:05:49,368:services:Creating the session with the db 
+2022-11-25 18:05:49,379:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:05:49,380:services:Name validation is successful
+2022-11-25 18:05:49,380:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 18:05:49,380:services:Database object formed
+2022-11-25 18:05:49,380:services:Adding to the database
+2022-11-25 18:05:49,383:services:Record successfully added name Bruce Schneier and phone_number is 12345
+2022-11-25 18:05:49,384:services:Session Created
+2022-11-25 18:28:12,027:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:28:12,027:services:Name validation is successful
+2022-11-25 18:28:12,028:services:Phone validation is successful
+2022-11-25 18:28:12,028:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 18:28:12,028:services:Database object formed
+2022-11-25 18:28:12,028:services:Adding to the database
+2022-11-25 18:28:12,031:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 18:28:12,040:main:User already existsTerry
+2022-11-25 18:28:12,044:main:User already existsTerry
+2022-11-25 18:28:12,048:main:List of all users returned
+2022-11-25 18:28:12,052:services:Name validation is successful
+2022-11-25 18:28:12,055:main:User is deleted Terry
+2022-11-25 18:28:12,063:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:28:12,063:services:Name validation is successful
+2022-11-25 18:28:12,063:services:Phone validation is successful
+2022-11-25 18:28:12,063:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 18:28:12,063:services:Database object formed
+2022-11-25 18:28:12,063:services:Adding to the database
+2022-11-25 18:28:12,065:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 18:28:12,072:services:Phone validation is successful
+2022-11-25 18:47:28,705:services:Creating the session with the db 
+2022-11-25 18:47:28,714:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 18:47:28,715:services:Name validation is successful
+2022-11-25 18:47:28,717:services:Session Created
+2022-11-25 19:43:49,556:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:43:49,561:services:Name validation is successful
+2022-11-25 19:43:49,561:services:Phone validation is successful
+2022-11-25 19:43:49,562:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:43:49,562:services:Database object formed
+2022-11-25 19:43:49,562:services:Adding to the database
+2022-11-25 19:43:49,565:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:43:49,571:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:43:49,571:services:Name validation is successful
+2022-11-25 19:43:49,571:services:Phone validation is successful
+2022-11-25 19:43:49,571:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:43:49,571:services:Database object formed
+2022-11-25 19:43:49,571:services:Adding to the database
+2022-11-25 19:43:49,572:services:Record successfully added name Schneier, Bruce and phone_number is 123-1234
+2022-11-25 19:43:49,583:main:User already existsTerry
+2022-11-25 19:43:49,587:main:User already existsTerry
+2022-11-25 19:43:49,592:main:List of all users returned
+2022-11-25 19:43:49,597:services:Name validation is successful
+2022-11-25 19:43:49,600:main:User is deleted Terry
+2022-11-25 19:43:49,606:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:43:49,606:services:Name validation is successful
+2022-11-25 19:43:49,606:services:Phone validation is successful
+2022-11-25 19:43:49,606:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:43:49,606:services:Database object formed
+2022-11-25 19:43:49,606:services:Adding to the database
+2022-11-25 19:43:49,607:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:43:49,611:services:Phone validation is successful
+2022-11-25 19:46:43,639:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:46:43,640:services:Name validation is successful
+2022-11-25 19:46:43,640:services:Phone validation is successful
+2022-11-25 19:46:43,640:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:46:43,640:services:Database object formed
+2022-11-25 19:46:43,641:services:Adding to the database
+2022-11-25 19:46:43,643:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:46:43,649:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:46:43,649:services:Name validation is successful
+2022-11-25 19:46:43,649:services:Phone validation is successful
+2022-11-25 19:46:43,649:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:46:43,649:services:Database object formed
+2022-11-25 19:46:43,649:services:Adding to the database
+2022-11-25 19:46:43,650:services:Record successfully added name Schneier, Bruce Wayne and phone_number is +1(703)111-2121
+2022-11-25 19:46:43,655:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:46:43,655:services:Name validation is successful
+2022-11-25 19:46:43,702:main:User already existsTerry
+2022-11-25 19:46:43,706:main:User already existsTerry
+2022-11-25 19:46:43,710:main:List of all users returned
+2022-11-25 19:46:43,717:services:Name validation is successful
+2022-11-25 19:46:43,719:main:User is deleted Terry
+2022-11-25 19:46:43,725:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:46:43,725:services:Name validation is successful
+2022-11-25 19:46:43,726:services:Phone validation is successful
+2022-11-25 19:46:43,726:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:46:43,726:services:Database object formed
+2022-11-25 19:46:43,726:services:Adding to the database
+2022-11-25 19:46:43,727:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:46:43,730:services:Phone validation is successful
+2022-11-25 19:48:30,800:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:48:30,801:services:Name validation is successful
+2022-11-25 19:48:30,801:services:Phone validation is successful
+2022-11-25 19:48:30,801:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:48:30,801:services:Database object formed
+2022-11-25 19:48:30,801:services:Adding to the database
+2022-11-25 19:48:30,805:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:48:30,811:main:User already existsSchneier, Bruce Wayne
+2022-11-25 19:48:30,852:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:48:30,852:services:Name validation is successful
+2022-11-25 19:48:30,862:main:User already existsTerry
+2022-11-25 19:48:30,865:main:User already existsTerry
+2022-11-25 19:48:30,869:main:List of all users returned
+2022-11-25 19:48:30,877:services:Name validation is successful
+2022-11-25 19:48:30,879:main:User is deleted Terry
+2022-11-25 19:48:30,886:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:48:30,886:services:Name validation is successful
+2022-11-25 19:48:30,886:services:Phone validation is successful
+2022-11-25 19:48:30,886:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:48:30,886:services:Database object formed
+2022-11-25 19:48:30,886:services:Adding to the database
+2022-11-25 19:48:30,887:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:48:30,891:services:Phone validation is successful
+2022-11-25 19:48:39,541:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:48:39,541:services:Name validation is successful
+2022-11-25 19:48:39,541:services:Phone validation is successful
+2022-11-25 19:48:39,541:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:48:39,541:services:Database object formed
+2022-11-25 19:48:39,541:services:Adding to the database
+2022-11-25 19:48:39,544:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:48:39,549:main:User already existsSchneier, Bruce Wayne
+2022-11-25 19:48:39,591:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:48:39,591:services:Name validation is successful
+2022-11-25 19:48:39,599:main:User already existsTerry
+2022-11-25 19:48:39,603:main:User already existsTerry
+2022-11-25 19:48:39,608:main:List of all users returned
+2022-11-25 19:48:39,612:services:Name validation is successful
+2022-11-25 19:48:39,614:main:User is deleted Terry
+2022-11-25 19:48:39,620:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:48:39,620:services:Name validation is successful
+2022-11-25 19:48:39,620:services:Phone validation is successful
+2022-11-25 19:48:39,620:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:48:39,620:services:Database object formed
+2022-11-25 19:48:39,621:services:Adding to the database
+2022-11-25 19:48:39,622:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:48:39,625:services:Phone validation is successful
+2022-11-25 19:49:28,042:services:Creating the session with the db 
+2022-11-25 19:49:28,054:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:49:28,054:services:Name validation is successful
+2022-11-25 19:49:28,055:services:Session Created
+2022-11-25 19:52:44,483:services:Creating the session with the db 
+2022-11-25 19:52:44,498:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:52:44,498:services:Name validation is successful
+2022-11-25 19:52:44,500:services:Session Created
+2022-11-25 19:54:24,244:services:Creating the session with the db 
+2022-11-25 19:54:24,249:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:54:24,249:services:Name validation is successful
+2022-11-25 19:54:24,249:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:54:24,249:services:Database object formed
+2022-11-25 19:54:24,250:services:Adding to the database
+2022-11-25 19:54:24,258:services:Record successfully added name Nithin and phone_number is 011 701 111 1234 
+2022-11-25 19:54:24,262:services:Session Created
+2022-11-25 19:56:29,209:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:56:29,209:services:Name validation is successful
+2022-11-25 19:56:29,209:services:Phone validation is successful
+2022-11-25 19:56:29,210:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:56:29,210:services:Database object formed
+2022-11-25 19:56:29,210:services:Adding to the database
+2022-11-25 19:56:29,212:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:56:29,218:main:User already existsSchneier, Bruce
+2022-11-25 19:56:29,262:main:User already existsSchneier, Bruce Wayne
+2022-11-25 19:56:29,269:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:56:29,269:services:Name validation is successful
+2022-11-25 19:56:29,269:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:56:29,269:services:Database object formed
+2022-11-25 19:56:29,269:services:Adding to the database
+2022-11-25 19:56:29,270:services:Record successfully added name O’Malley, John F. and phone_number is 011 701 111 1234
+2022-11-25 19:56:29,276:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:56:29,276:services:Name validation is successful
+2022-11-25 19:56:29,276:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:56:29,276:services:Database object formed
+2022-11-25 19:56:29,276:services:Adding to the database
+2022-11-25 19:56:29,277:services:Record successfully added name John O’Malley-Smith and phone_number is 12345.12345
+2022-11-25 19:56:29,285:main:User already existsTerry
+2022-11-25 19:56:29,290:main:User already existsTerry
+2022-11-25 19:56:29,294:main:List of all users returned
+2022-11-25 19:56:29,299:services:Name validation is successful
+2022-11-25 19:56:29,301:main:User is deleted Terry
+2022-11-25 19:56:29,309:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:56:29,309:services:Name validation is successful
+2022-11-25 19:56:29,309:services:Phone validation is successful
+2022-11-25 19:56:29,309:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:56:29,309:services:Database object formed
+2022-11-25 19:56:29,309:services:Adding to the database
+2022-11-25 19:56:29,310:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:56:29,313:services:Phone validation is successful
+2022-11-25 19:57:12,020:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:57:12,021:services:Name validation is successful
+2022-11-25 19:57:12,021:services:Phone validation is successful
+2022-11-25 19:57:12,021:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:57:12,021:services:Database object formed
+2022-11-25 19:57:12,021:services:Adding to the database
+2022-11-25 19:57:12,024:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:57:12,032:main:User already existsSchneier, Bruce
+2022-11-25 19:57:12,075:main:User already existsSchneier, Bruce Wayne
+2022-11-25 19:57:12,082:main:User already existsO’Malley, John F.
+2022-11-25 19:57:12,089:main:User already existsJohn O’Malley-Smith
+2022-11-25 19:57:12,098:main:User already existsTerry
+2022-11-25 19:57:12,102:main:User already existsTerry
+2022-11-25 19:57:12,107:main:List of all users returned
+2022-11-25 19:57:12,111:services:Name validation is successful
+2022-11-25 19:57:12,114:main:User is deleted Terry
+2022-11-25 19:57:12,121:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:57:12,121:services:Name validation is successful
+2022-11-25 19:57:12,121:services:Phone validation is successful
+2022-11-25 19:57:12,121:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:57:12,121:services:Database object formed
+2022-11-25 19:57:12,121:services:Adding to the database
+2022-11-25 19:57:12,122:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:57:12,125:services:Phone validation is successful
+2022-11-25 19:57:46,906:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:57:46,906:services:Name validation is successful
+2022-11-25 19:57:46,907:services:Phone validation is successful
+2022-11-25 19:57:46,907:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:57:46,907:services:Database object formed
+2022-11-25 19:57:46,907:services:Adding to the database
+2022-11-25 19:57:46,909:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:57:46,914:main:User already existsSchneier, Bruce
+2022-11-25 19:57:46,956:main:User already existsSchneier, Bruce Wayne
+2022-11-25 19:57:46,962:main:User already existsO’Malley, John F.
+2022-11-25 19:57:46,968:main:User already existsJohn O’Malley-Smith
+2022-11-25 19:57:46,977:main:User already existsTerry
+2022-11-25 19:57:46,981:main:User already existsTerry
+2022-11-25 19:57:46,985:main:List of all users returned
+2022-11-25 19:57:46,991:services:Name validation is successful
+2022-11-25 19:57:46,993:main:User is deleted Terry
+2022-11-25 19:57:46,999:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:57:46,999:services:Name validation is successful
+2022-11-25 19:57:46,999:services:Phone validation is successful
+2022-11-25 19:57:46,999:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:57:46,999:services:Database object formed
+2022-11-25 19:57:46,999:services:Adding to the database
+2022-11-25 19:57:47,000:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:57:47,004:services:Phone validation is successful
+2022-11-25 19:58:03,338:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:58:03,338:services:Name validation is successful
+2022-11-25 19:58:03,338:services:Phone validation is successful
+2022-11-25 19:58:03,338:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:58:03,338:services:Database object formed
+2022-11-25 19:58:03,339:services:Adding to the database
+2022-11-25 19:58:03,340:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:58:03,345:main:User already existsSchneier, Bruce
+2022-11-25 19:58:03,387:main:User already existsSchneier, Bruce Wayne
+2022-11-25 19:58:03,393:main:User already existsO’Malley, John F.
+2022-11-25 19:58:03,399:main:User already existsJohn O’Malley-Smith
+2022-11-25 19:58:03,408:main:User already existsTerry
+2022-11-25 19:58:03,412:main:User already existsTerry
+2022-11-25 19:58:03,416:main:List of all users returned
+2022-11-25 19:58:03,421:services:Name validation is successful
+2022-11-25 19:58:03,423:main:User is deleted Terry
+2022-11-25 19:58:03,430:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:58:03,430:services:Name validation is successful
+2022-11-25 19:58:03,430:services:Phone validation is successful
+2022-11-25 19:58:03,430:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:58:03,430:services:Database object formed
+2022-11-25 19:58:03,430:services:Adding to the database
+2022-11-25 19:58:03,431:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:58:03,434:services:Phone validation is successful
+2022-11-25 19:58:47,779:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:58:47,780:services:Name validation is successful
+2022-11-25 19:58:47,780:services:Phone validation is successful
+2022-11-25 19:58:47,780:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:58:47,780:services:Database object formed
+2022-11-25 19:58:47,780:services:Adding to the database
+2022-11-25 19:58:47,782:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:58:47,788:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:58:47,788:services:Name validation is successful
+2022-11-25 19:58:47,788:services:Phone validation is successful
+2022-11-25 19:58:47,788:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:58:47,788:services:Database object formed
+2022-11-25 19:58:47,788:services:Adding to the database
+2022-11-25 19:58:47,789:services:Record successfully added name Schneier, Bruce and phone_number is 123-1234
+2022-11-25 19:58:47,794:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:58:47,794:services:Name validation is successful
+2022-11-25 19:58:47,837:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:58:47,837:services:Name validation is successful
+2022-11-25 19:58:47,837:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:58:47,837:services:Database object formed
+2022-11-25 19:58:47,837:services:Adding to the database
+2022-11-25 19:58:47,838:services:Record successfully added name O’Malley, John F. and phone_number is 011 701 111 1234
+2022-11-25 19:58:47,842:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:58:47,842:services:Name validation is successful
+2022-11-25 19:58:47,843:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:58:47,843:services:Database object formed
+2022-11-25 19:58:47,843:services:Adding to the database
+2022-11-25 19:58:47,844:services:Record successfully added name John O’Malley-Smith and phone_number is 12345.12345
+2022-11-25 19:58:47,851:main:User already existsTerry
+2022-11-25 19:58:47,856:main:User already existsTerry
+2022-11-25 19:58:47,859:main:List of all users returned
+2022-11-25 19:58:47,864:services:Name validation is successful
+2022-11-25 19:58:47,866:main:User is deleted Terry
+2022-11-25 19:58:47,873:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:58:47,873:services:Name validation is successful
+2022-11-25 19:58:47,873:services:Phone validation is successful
+2022-11-25 19:58:47,873:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:58:47,873:services:Database object formed
+2022-11-25 19:58:47,873:services:Adding to the database
+2022-11-25 19:58:47,874:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:58:47,877:services:Phone validation is successful
+2022-11-25 19:59:24,310:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:59:24,311:services:Name validation is successful
+2022-11-25 19:59:24,311:services:Phone validation is successful
+2022-11-25 19:59:24,311:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:59:24,311:services:Database object formed
+2022-11-25 19:59:24,311:services:Adding to the database
+2022-11-25 19:59:24,313:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 19:59:24,319:main:User already existsSchneier, Bruce
+2022-11-25 19:59:24,362:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:59:24,363:services:Name validation is successful
+2022-11-25 19:59:24,363:services:Phone validation is successful
+2022-11-25 19:59:24,363:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:59:24,363:services:Database object formed
+2022-11-25 19:59:24,363:services:Adding to the database
+2022-11-25 19:59:24,364:services:Record successfully added name Schneier, Bruce Wayne and phone_number is +32 (21) 212-2324
+2022-11-25 19:59:24,369:main:User already existsO’Malley, John F.
+2022-11-25 19:59:24,375:main:User already existsJohn O’Malley-Smith
+2022-11-25 19:59:24,383:main:User already existsTerry
+2022-11-25 19:59:24,390:main:User already existsTerry
+2022-11-25 19:59:24,394:main:List of all users returned
+2022-11-25 19:59:24,398:services:Name validation is successful
+2022-11-25 19:59:24,401:main:User is deleted Terry
+2022-11-25 19:59:24,409:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 19:59:24,409:services:Name validation is successful
+2022-11-25 19:59:24,409:services:Phone validation is successful
+2022-11-25 19:59:24,409:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 19:59:24,409:services:Database object formed
+2022-11-25 19:59:24,409:services:Adding to the database
+2022-11-25 19:59:24,410:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 19:59:24,413:services:Phone validation is successful
+2022-11-25 20:01:19,273:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:01:19,273:services:Name validation is successful
+2022-11-25 20:01:19,274:services:Phone validation is successful
+2022-11-25 20:01:19,274:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:01:19,274:services:Database object formed
+2022-11-25 20:01:19,274:services:Adding to the database
+2022-11-25 20:01:19,276:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 20:01:19,282:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:01:19,282:services:Name validation is successful
+2022-11-25 20:01:19,282:services:Phone validation is successful
+2022-11-25 20:01:19,283:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:01:19,283:services:Database object formed
+2022-11-25 20:01:19,283:services:Adding to the database
+2022-11-25 20:01:19,284:services:Record successfully added name Schneier, Bruce and phone_number is 123-1234
+2022-11-25 20:01:19,288:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:01:19,288:services:Name validation is successful
+2022-11-25 20:01:19,288:services:Phone validation is successful
+2022-11-25 20:01:19,288:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:01:19,288:services:Database object formed
+2022-11-25 20:01:19,288:services:Adding to the database
+2022-11-25 20:01:19,289:services:Record successfully added name Raj and phone_number is +32 (21) 212-2324
+2022-11-25 20:01:19,294:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:01:19,294:services:Name validation is successful
+2022-11-25 20:01:19,294:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:01:19,294:services:Database object formed
+2022-11-25 20:01:19,294:services:Adding to the database
+2022-11-25 20:01:19,295:services:Record successfully added name O’Malley, John F. and phone_number is 011 701 111 1234
+2022-11-25 20:01:19,300:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:01:19,300:services:Name validation is successful
+2022-11-25 20:01:19,300:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:01:19,300:services:Database object formed
+2022-11-25 20:01:19,300:services:Adding to the database
+2022-11-25 20:01:19,301:services:Record successfully added name John O’Malley-Smith and phone_number is 12345.12345
+2022-11-25 20:01:19,310:main:User already existsTerry
+2022-11-25 20:01:19,313:main:User already existsTerry
+2022-11-25 20:01:19,318:main:List of all users returned
+2022-11-25 20:01:19,324:services:Name validation is successful
+2022-11-25 20:01:19,326:main:User is deleted Terry
+2022-11-25 20:01:19,333:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:01:19,333:services:Name validation is successful
+2022-11-25 20:01:19,333:services:Phone validation is successful
+2022-11-25 20:01:19,333:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:01:19,333:services:Database object formed
+2022-11-25 20:01:19,333:services:Adding to the database
+2022-11-25 20:01:19,334:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 20:01:19,337:services:Phone validation is successful
+2022-11-25 20:05:05,758:services:Creating the session with the db 
+2022-11-25 20:05:05,770:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:05:05,771:services:Session Created
+2022-11-25 20:06:32,417:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:32,418:services:Name validation is successful
+2022-11-25 20:06:32,418:services:Phone validation is successful
+2022-11-25 20:06:32,418:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:06:32,418:services:Database object formed
+2022-11-25 20:06:32,418:services:Adding to the database
+2022-11-25 20:06:32,420:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 20:06:32,426:main:User already existsSchneier, Bruce
+2022-11-25 20:06:32,469:main:User already existsRaj
+2022-11-25 20:06:32,475:main:User already existsO’Malley, John F.
+2022-11-25 20:06:32,482:main:User already existsJohn O’Malley-Smith
+2022-11-25 20:06:32,489:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:32,496:main:User already existsTerry
+2022-11-25 20:06:32,500:main:User already existsTerry
+2022-11-25 20:06:32,505:main:List of all users returned
+2022-11-25 20:06:32,511:services:Name validation is successful
+2022-11-25 20:06:32,513:main:User is deleted Terry
+2022-11-25 20:06:32,520:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:32,520:services:Name validation is successful
+2022-11-25 20:06:32,520:services:Phone validation is successful
+2022-11-25 20:06:32,520:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:06:32,520:services:Database object formed
+2022-11-25 20:06:32,521:services:Adding to the database
+2022-11-25 20:06:32,522:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 20:06:32,524:services:Phone validation is successful
+2022-11-25 20:06:42,755:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:42,756:services:Name validation is successful
+2022-11-25 20:06:42,756:services:Phone validation is successful
+2022-11-25 20:06:42,756:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:06:42,756:services:Database object formed
+2022-11-25 20:06:42,756:services:Adding to the database
+2022-11-25 20:06:42,758:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 20:06:42,763:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:42,763:services:Name validation is successful
+2022-11-25 20:06:42,763:services:Phone validation is successful
+2022-11-25 20:06:42,763:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:06:42,764:services:Database object formed
+2022-11-25 20:06:42,764:services:Adding to the database
+2022-11-25 20:06:42,765:services:Record successfully added name Schneier, Bruce and phone_number is 123-1234
+2022-11-25 20:06:42,769:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:42,769:services:Name validation is successful
+2022-11-25 20:06:42,769:services:Phone validation is successful
+2022-11-25 20:06:42,769:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:06:42,769:services:Database object formed
+2022-11-25 20:06:42,769:services:Adding to the database
+2022-11-25 20:06:42,770:services:Record successfully added name Raj and phone_number is +32 (21) 212-2324
+2022-11-25 20:06:42,775:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:42,775:services:Name validation is successful
+2022-11-25 20:06:42,775:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:06:42,775:services:Database object formed
+2022-11-25 20:06:42,775:services:Adding to the database
+2022-11-25 20:06:42,776:services:Record successfully added name O’Malley, John F. and phone_number is 011 701 111 1234
+2022-11-25 20:06:42,781:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:42,781:services:Name validation is successful
+2022-11-25 20:06:42,781:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:06:42,781:services:Database object formed
+2022-11-25 20:06:42,781:services:Adding to the database
+2022-11-25 20:06:42,782:services:Record successfully added name John O’Malley-Smith and phone_number is 12345.12345
+2022-11-25 20:06:42,788:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:42,794:main:User already existsTerry
+2022-11-25 20:06:42,798:main:User already existsTerry
+2022-11-25 20:06:42,803:main:List of all users returned
+2022-11-25 20:06:42,806:services:Name validation is successful
+2022-11-25 20:06:42,808:main:User is deleted Terry
+2022-11-25 20:06:42,816:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:06:42,816:services:Name validation is successful
+2022-11-25 20:06:42,816:services:Phone validation is successful
+2022-11-25 20:06:42,816:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:06:42,816:services:Database object formed
+2022-11-25 20:06:42,816:services:Adding to the database
+2022-11-25 20:06:42,817:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 20:06:42,820:services:Phone validation is successful
+2022-11-25 20:09:21,213:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,213:services:Name validation is successful
+2022-11-25 20:09:21,214:services:Phone validation is successful
+2022-11-25 20:09:21,214:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:09:21,214:services:Database object formed
+2022-11-25 20:09:21,214:services:Adding to the database
+2022-11-25 20:09:21,215:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 20:09:21,221:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,221:services:Name validation is successful
+2022-11-25 20:09:21,221:services:Phone validation is successful
+2022-11-25 20:09:21,221:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:09:21,221:services:Database object formed
+2022-11-25 20:09:21,221:services:Adding to the database
+2022-11-25 20:09:21,222:services:Record successfully added name Schneier, Bruce and phone_number is 123-1234
+2022-11-25 20:09:21,227:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,227:services:Name validation is successful
+2022-11-25 20:09:21,227:services:Phone validation is successful
+2022-11-25 20:09:21,227:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:09:21,227:services:Database object formed
+2022-11-25 20:09:21,227:services:Adding to the database
+2022-11-25 20:09:21,228:services:Record successfully added name Raj and phone_number is +32 (21) 212-2324
+2022-11-25 20:09:21,232:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,232:services:Name validation is successful
+2022-11-25 20:09:21,233:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:09:21,233:services:Database object formed
+2022-11-25 20:09:21,233:services:Adding to the database
+2022-11-25 20:09:21,233:services:Record successfully added name O’Malley, John F. and phone_number is 011 701 111 1234
+2022-11-25 20:09:21,237:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,238:services:Name validation is successful
+2022-11-25 20:09:21,238:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:09:21,238:services:Database object formed
+2022-11-25 20:09:21,238:services:Adding to the database
+2022-11-25 20:09:21,239:services:Record successfully added name John O’Malley-Smith and phone_number is 12345.12345
+2022-11-25 20:09:21,243:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,250:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,255:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,259:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,264:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,270:main:User already existsTerry
+2022-11-25 20:09:21,274:main:User already existsTerry
+2022-11-25 20:09:21,278:main:List of all users returned
+2022-11-25 20:09:21,282:services:Name validation is successful
+2022-11-25 20:09:21,284:main:User is deleted Terry
+2022-11-25 20:09:21,290:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:09:21,290:services:Name validation is successful
+2022-11-25 20:09:21,290:services:Phone validation is successful
+2022-11-25 20:09:21,290:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:09:21,290:services:Database object formed
+2022-11-25 20:09:21,290:services:Adding to the database
+2022-11-25 20:09:21,291:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 20:09:21,294:services:Phone validation is successful
+2022-11-25 20:12:44,984:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:44,985:services:Name validation is successful
+2022-11-25 20:12:44,985:services:Phone validation is successful
+2022-11-25 20:12:44,985:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:12:44,985:services:Database object formed
+2022-11-25 20:12:44,985:services:Adding to the database
+2022-11-25 20:12:44,987:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 20:12:44,993:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:44,993:services:Name validation is successful
+2022-11-25 20:12:44,993:services:Phone validation is successful
+2022-11-25 20:12:44,993:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:12:44,993:services:Database object formed
+2022-11-25 20:12:44,993:services:Adding to the database
+2022-11-25 20:12:44,994:services:Record successfully added name Schneier, Bruce and phone_number is 123-1234
+2022-11-25 20:12:44,998:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:44,998:services:Name validation is successful
+2022-11-25 20:12:44,998:services:Phone validation is successful
+2022-11-25 20:12:44,999:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:12:44,999:services:Database object formed
+2022-11-25 20:12:44,999:services:Adding to the database
+2022-11-25 20:12:45,000:services:Record successfully added name Raj and phone_number is +32 (21) 212-2324
+2022-11-25 20:12:45,004:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,004:services:Name validation is successful
+2022-11-25 20:12:45,004:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:12:45,004:services:Database object formed
+2022-11-25 20:12:45,004:services:Adding to the database
+2022-11-25 20:12:45,005:services:Record successfully added name O’Malley, John F. and phone_number is 011 701 111 1234
+2022-11-25 20:12:45,010:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,010:services:Name validation is successful
+2022-11-25 20:12:45,010:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:12:45,010:services:Database object formed
+2022-11-25 20:12:45,011:services:Adding to the database
+2022-11-25 20:12:45,011:services:Record successfully added name John O’Malley-Smith and phone_number is 12345.12345
+2022-11-25 20:12:45,016:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,019:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,024:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,029:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,032:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,036:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,036:services:Name validation is successful
+2022-11-25 20:12:45,044:main:User already existsTerry
+2022-11-25 20:12:45,048:main:User already existsTerry
+2022-11-25 20:12:45,051:main:List of all users returned
+2022-11-25 20:12:45,055:services:Name validation is successful
+2022-11-25 20:12:45,058:main:User is deleted Terry
+2022-11-25 20:12:45,064:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:12:45,064:services:Name validation is successful
+2022-11-25 20:12:45,064:services:Phone validation is successful
+2022-11-25 20:12:45,064:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:12:45,064:services:Database object formed
+2022-11-25 20:12:45,064:services:Adding to the database
+2022-11-25 20:12:45,065:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 20:12:45,068:services:Phone validation is successful
+2022-11-25 20:15:39,570:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,571:services:Name validation is successful
+2022-11-25 20:15:39,571:services:Phone validation is successful
+2022-11-25 20:15:39,571:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:15:39,571:services:Database object formed
+2022-11-25 20:15:39,571:services:Adding to the database
+2022-11-25 20:15:39,573:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 20:15:39,579:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,579:services:Name validation is successful
+2022-11-25 20:15:39,579:services:Phone validation is successful
+2022-11-25 20:15:39,579:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:15:39,579:services:Database object formed
+2022-11-25 20:15:39,579:services:Adding to the database
+2022-11-25 20:15:39,583:services:Record successfully added name Schneier, Bruce and phone_number is 123-1234
+2022-11-25 20:15:39,588:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,588:services:Name validation is successful
+2022-11-25 20:15:39,588:services:Phone validation is successful
+2022-11-25 20:15:39,588:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:15:39,588:services:Database object formed
+2022-11-25 20:15:39,588:services:Adding to the database
+2022-11-25 20:15:39,589:services:Record successfully added name Raj and phone_number is +32 (21) 212-2324
+2022-11-25 20:15:39,593:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,594:services:Name validation is successful
+2022-11-25 20:15:39,594:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:15:39,594:services:Database object formed
+2022-11-25 20:15:39,594:services:Adding to the database
+2022-11-25 20:15:39,595:services:Record successfully added name O’Malley, John F. and phone_number is 011 701 111 1234
+2022-11-25 20:15:39,599:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,599:services:Name validation is successful
+2022-11-25 20:15:39,599:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:15:39,599:services:Database object formed
+2022-11-25 20:15:39,599:services:Adding to the database
+2022-11-25 20:15:39,600:services:Record successfully added name John O’Malley-Smith and phone_number is 12345.12345
+2022-11-25 20:15:39,606:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,610:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,614:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,618:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,622:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,626:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,626:services:Name validation is successful
+2022-11-25 20:15:39,629:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,629:services:Name validation is successful
+2022-11-25 20:15:39,633:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,633:services:Name validation is successful
+2022-11-25 20:15:39,637:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,637:services:Name validation is successful
+2022-11-25 20:15:39,641:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,641:services:Name validation is successful
+2022-11-25 20:15:39,646:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,646:services:Name validation is successful
+2022-11-25 20:15:39,655:main:User already existsTerry
+2022-11-25 20:15:39,660:main:User already existsTerry
+2022-11-25 20:15:39,664:main:List of all users returned
+2022-11-25 20:15:39,668:services:Name validation is successful
+2022-11-25 20:15:39,670:main:User is deleted Terry
+2022-11-25 20:15:39,677:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:39,677:services:Name validation is successful
+2022-11-25 20:15:39,677:services:Phone validation is successful
+2022-11-25 20:15:39,677:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:15:39,677:services:Database object formed
+2022-11-25 20:15:39,677:services:Adding to the database
+2022-11-25 20:15:39,678:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 20:15:39,681:services:Phone validation is successful
+2022-11-25 20:15:49,280:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,280:services:Name validation is successful
+2022-11-25 20:15:49,280:services:Phone validation is successful
+2022-11-25 20:15:49,280:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:15:49,280:services:Database object formed
+2022-11-25 20:15:49,280:services:Adding to the database
+2022-11-25 20:15:49,282:services:Record successfully added name Terry and phone_number is +1 (887)-299-8925
+2022-11-25 20:15:49,288:main:User already existsSchneier, Bruce
+2022-11-25 20:15:49,335:main:User already existsRaj
+2022-11-25 20:15:49,342:main:User already existsO’Malley, John F.
+2022-11-25 20:15:49,349:main:User already existsJohn O’Malley-Smith
+2022-11-25 20:15:49,357:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,361:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,366:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,370:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,375:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,379:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,379:services:Name validation is successful
+2022-11-25 20:15:49,382:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,382:services:Name validation is successful
+2022-11-25 20:15:49,386:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,386:services:Name validation is successful
+2022-11-25 20:15:49,391:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,392:services:Name validation is successful
+2022-11-25 20:15:49,395:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,395:services:Name validation is successful
+2022-11-25 20:15:49,399:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,399:services:Name validation is successful
+2022-11-25 20:15:49,407:main:User already existsTerry
+2022-11-25 20:15:49,410:main:User already existsTerry
+2022-11-25 20:15:49,414:main:List of all users returned
+2022-11-25 20:15:49,417:services:Name validation is successful
+2022-11-25 20:15:49,420:main:User is deleted Terry
+2022-11-25 20:15:49,426:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:15:49,426:services:Name validation is successful
+2022-11-25 20:15:49,426:services:Phone validation is successful
+2022-11-25 20:15:49,426:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:15:49,427:services:Database object formed
+2022-11-25 20:15:49,427:services:Adding to the database
+2022-11-25 20:15:49,428:services:Record successfully added name Akash and phone_number is +1 (987)-219-8925
+2022-11-25 20:15:49,431:services:Phone validation is successful
+2022-11-25 20:18:01,625:services:Creating the session with the db 
+2022-11-25 20:18:01,635:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:18:01,635:services:Name validation is successful
+2022-11-25 20:18:01,636:services:Session Created
+2022-11-25 20:18:11,810:services:Creating the session with the db 
+2022-11-25 20:18:11,812:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:18:11,812:services:Name validation is successful
+2022-11-25 20:18:11,813:services:Session Created
+2022-11-25 20:18:19,543:services:Creating the session with the db 
+2022-11-25 20:18:19,546:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:18:19,546:services:Name validation is successful
+2022-11-25 20:18:19,546:services:Phone validation is successful
+2022-11-25 20:18:19,546:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:18:19,546:services:Database object formed
+2022-11-25 20:18:19,546:services:Adding to the database
+2022-11-25 20:18:19,552:services:Record successfully added name Ravi and phone_number is +1(703)113-1234
+2022-11-25 20:18:19,558:services:Session Created
+2022-11-25 20:21:05,446:services:Creating the session with the db 
+2022-11-25 20:21:05,459:main:User already existsRavi
+2022-11-25 20:21:05,460:services:Session Created
+2022-11-25 20:21:19,126:services:Creating the session with the db 
+2022-11-25 20:21:19,128:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:21:19,129:services:Name validation is successful
+2022-11-25 20:21:19,129:services:Phone validation is successful
+2022-11-25 20:21:19,129:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:21:19,129:services:Database object formed
+2022-11-25 20:21:19,130:services:Adding to the database
+2022-11-25 20:21:19,135:services:Record successfully added name Raju and phone_number is 1(803)113-1234
+2022-11-25 20:21:19,139:services:Session Created
+2022-11-25 20:21:30,629:services:Creating the session with the db 
+2022-11-25 20:21:30,633:services:Validating the name and phone_number before inserting it into the database.
+2022-11-25 20:21:30,633:services:Name validation is successful
+2022-11-25 20:21:30,633:services:Phone validation is successful
+2022-11-25 20:21:30,633:services:The name and phone_number is correct. Moving onto the next step to form a database object
+2022-11-25 20:21:30,634:services:Database object formed
+2022-11-25 20:21:30,634:services:Adding to the database
+2022-11-25 20:21:30,636:services:Record successfully added name Ramuju and phone_number is +1(803)113-1234
+2022-11-25 20:21:30,639:services:Session Created
